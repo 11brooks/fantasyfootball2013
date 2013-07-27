@@ -18,6 +18,8 @@ If you want to get a better feel for how this works, you can do a [mock draft](h
 
 Our league uses "Head to Head" scoring. Each week, teams "play" each other and are scored based on a variety of metrics - including passing yards, touchdowns, and interceptions. The winning team gets a "win", which is used at the end of the season to determine which teams make the playoffs.
 
+You can see the point breakdown on the [scoring chart](https://github.com/11brooks/fantasyfootball2013/blob/master/scoring.md).
+
 ##Playoffs
 
 At the end of the "regular season" (13 weeks), the top 4 teams from each division will advance to the playoffs.
