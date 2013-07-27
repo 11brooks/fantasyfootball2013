@@ -50,6 +50,8 @@ Yep. There is a $30 entry fee.
 
 50% of the pot will go to the playoff champ, 20% to 2nd place, and 30% to the regular season champ. (This is not set in stone.)
 
+If enough people are ok with increasing the entry fee, we can do weekly prizes for most total points, bounties, or other cool stuff.
+
 **Does this require a lot of time and effort?**
 
 You can put as much or as little time into this as you want. At the bare minimum, you'll want to make sure that all of your "starting" players for the week are actually playing (not injured or on a bye week).
