@@ -12,7 +12,7 @@ On draft day, each team nominates a player for auction every round. Teams have 3
 
 This style of draft makes things much fairer overall, since you don't really have to worry about getting a bad draft position, but instead can focus on strategy and managing your budget.
 
-If you want to get a better feel for how this works, you can do a [mock draft](http://football.fantasysports.yahoo.com/f1/263499/mock_lobby?lobby=auction).
+If you want to get a better feel for how this works, you can do a [mock draft](http://games.espn.go.com/ffl/mockdraftlobby) - just make sure to do one with an "auction" draft type.
 
 ##Scoring
 
