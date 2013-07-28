@@ -4,9 +4,11 @@
 | -------------------- | :----------------: |
 | Passing Yards        | 25 yards/point     |
 | Passing Touchdowns   | 4                  |
-| Interceptions        | -1                 |
+| Interception         | -2                 |
+| Sack                 | -1                 |
 | Rushing Yards        | 10 yards/point     |
 | Rushing Touchdowns   | 6                  |
+| Reception            | 1                  |
 | Reception Yards      | 10 yards/point     |
 | Reception Touchdowns | 6                  |
 | Return Touchdowns    | 6                  |
@@ -17,9 +19,12 @@
 |     Kickers          |    Point Value     |
 | -------------------- | :----------------: |
 | FG 0-39 Yards        | 3                  |
+| FG Missed 0-39 Yards | -2                 |
+| FG Missed 40-49 Yards | -1                |
 | FG 40-49 Yards       | 4                  |
 | FG 50+ Yards         | 5                  |
 | PAT                  | 1                  |
+| PAT Missed           | -1                 |
 
 | Defense/Special Teams | Point Value       |
 | --------------------- | :---------------: |
